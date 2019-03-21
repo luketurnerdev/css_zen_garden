@@ -1,0 +1,16 @@
+a {
+    color: gray;
+}
+
+a:hover{
+    font-size:100px;
+
+}
+
+a:active{
+    background-color: purple;
+}
+
+a:empty{
+    color:black;
+}
